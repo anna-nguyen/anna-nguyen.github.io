@@ -8,11 +8,15 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% if post.collection == 'publications' %}
+    {% include archive-single.html %}
+    {% endif %}
 {% endfor %}
 
 **Under Review**
 
-{% for post in site.publicationsunderreview reversed %}
-  {% include archive-single.html %}
+{% for post in site.publications reversed %}
+  {% if post.collection == 'publicationsunderreview' %}
+    {% include archive-single.html %}
+    {% endif %}
 {% endfor %}
