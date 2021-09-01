@@ -16,7 +16,7 @@ author_profile: true
 **Under Review**
 
 {% for post in site.publications reversed %}
-  {% if post.collection == 'publicationsunderreview' %}
+  {% if post.collection == 'underreview' %}
     {% include archive-single.html %}
     {% endif %}
 {% endfor %}
