@@ -13,7 +13,7 @@ author_profile: true
     {% endif %}
 {% endfor %}
 
-**Under Review**
+## Under Review ##
 
 {% for post in site.publications reversed %}
   {% if post.venue == 'Under Review' %}
