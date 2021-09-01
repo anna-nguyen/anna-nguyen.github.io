@@ -1,7 +1,7 @@
 ---
 title: "Causes and consequences of child growth failure in low- and middle-income countries"
 collection: underreview
-permalink: /publications/review-1
+permalink: 
 excerpt: ''
 date: 2020-01-01
 venue: 'Under Review'
