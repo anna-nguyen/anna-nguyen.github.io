@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anna Nguyen"
 title_separator          : "-"
 name                     : &name "Anna Nguyen"
-description              : &description "PhD Student @ Stanford Epidemiology"
+description              : &description "PhD Candidate @ Stanford Epidemiology"
 url                      : https://anna-nguyen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anna-nguyen/anna-nguyen.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Anna Nguyen, MPH"
   avatar           : "profile.jpg"
-  bio              : "PhD Student @ Stanford Epidemiology"
+  bio              : "PhD Candidate @ Stanford Epidemiology"
   location         : "Stanford, California"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/anna.nguyen.2/bibliography/public/"
