@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% if post.collection == 'publications' %}
+  {% if post.venue != 'Under Review' %}
     {% include archive-single.html %}
     {% endif %}
 {% endfor %}
@@ -16,7 +16,7 @@ author_profile: true
 **Under Review**
 
 {% for post in site.publications reversed %}
-  {% if post.collection == 'underreview' %}
+  {% if post.venue == 'Under Review' %}
     {% include archive-single.html %}
     {% endif %}
 {% endfor %}
