@@ -1,7 +1,7 @@
 ---
 title: "Substantial underestimation of SARS-CoV-2 infection in the United States"
 collection: publications
-permalink:
+permalink: /publication/paper-2
 excerpt: ''
 date: 2020-09-09
 venue: 'Nature Communications'
