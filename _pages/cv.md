@@ -67,22 +67,22 @@ redirect_from:
 
 ## [Publications](https://anna-nguyen.github.io/publications/)
 
-{% for post in site.publications reversed %}
+<ul>{% for post in site.publications reversed %}
   {% if post.venue != 'Under Review' %}
     {% include archive-single-cv.html %}
   {% endif %}
-{% endfor %}
+{% endfor %}</ul>
 
 ### Under Review
 
-{% for post in site.publications reversed %}
+<ul>{% for post in site.publications reversed %}
   {% if post.venue == 'Under Review' %}
-    {% include archive-single.html %}
+    {% include archive-single-cv.html %}
   {% endif %}
-{% endfor %}
+{% endfor %}</ul>
 
 ## [Teaching](https://anna-nguyen.github.io/teaching/)
 
-{% for post in site.teaching reversed %}
+<ul>{% for post in site.teaching reversed %}
   {% include archive-single-cv.html %}
-{% endfor %}
+{% endfor %}</ul>
