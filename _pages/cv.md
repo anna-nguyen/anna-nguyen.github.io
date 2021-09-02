@@ -11,9 +11,9 @@ redirect_from:
 
 ## Education
 
-* **PhD in Epidemiology and Clinical Research**, Stanford University, 2025 (expected)
-* **MPH in Epidemiology and Biostatistics**, University of California, Berkeley, 2021
-* **BA in Public Health and Data Science**, University of California, Berkeley, 2020
+* **PhD in Epidemiology and Clinical Research**, Stanford University (2025, expected)
+* **MPH in Epidemiology and Biostatistics**, University of California, Berkeley (2021)
+* **BA in Public Health and Data Science**, University of California, Berkeley (2020)
 
 ## Research Experience
 
