@@ -65,7 +65,7 @@ redirect_from:
 
 **Software**: GitHub, Docker, Amazon Workspaces, Microsoft Suite
 
-## Publications
+## [Publications](https://anna-nguyen.github.io/publications/)
 
 {% for post in site.publications reversed %}
   {% if post.venue != 'Under Review' %}
@@ -81,7 +81,7 @@ redirect_from:
   {% endif %}
 {% endfor %}
 
-## Teaching
+## [Teaching](https://anna-nguyen.github.io/teaching/)
 
 {% for post in site.teaching reversed %}
   {% include archive-single-cv.html %}
