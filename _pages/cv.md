@@ -9,31 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
+
 * PhD in Epidemiology and Clinical Research, Stanford University, 2025 (expected)
 * MPH in Epidemiology and Biostatistics, University of California, Berkeley, 2021
 * BA in Public Health and Data Science, University of California, Berkeley, 2020
 
-Research Experience
-======
+## Research Experience
+
 * **Data Science Research Assistant**, UC Berkeley School of Public Health: Colford-Hubbard Research Group (August 2018 - August 2021)
   * *Research Topics*: evaluation of school-located influenza vaccination campaigns; spatio-temporal analysis of enteropathogen transmission; estimation of COVID-19 case counts; risk factors of child growth faltering; evaluation of water, sanitation and hygiene (WASH) interventions
   * *Methods*: fixed-effects and random-effects regression analysis; geospatial risk factor analysis; Bayesian analysis; data visualizations and interactive dashboards; web scraping; database security and management; R package development (function documentation, website maintenance, robustness tests); software development for reproducibility and replicability
   * *Advisor*: Jade Benjamin-Chung, PhD, MPH
 
-* Undergraduate Research Assistant, UC Berkeley School of Public Health: Nuru-Jeter Lab (January 2018 - May 2018)
+* **Undergraduate Research Assistant**, UC Berkeley School of Public Health: Nuru-Jeter Lab (January 2018 - May 2018)
   * *Research Topics*: effects of gentrification on preventable deaths in Alameda County
   * *Methods*: dynamic mapping with Python iWidgets; data dashboards; time-series analysis
   * *Advisor*: Melody Tulier DrPH, MPH, MCP
 
-* Undergraduate Research Assistant, UC Berkeley School of Public Health: Madsen Lab (July 2017 - November 2017)
+* **Undergraduate Research Assistant** , UC Berkeley School of Public Health: Madsen Lab (July 2017 - November 2017)
   * *Research Topics*: impact of Bay Area soda taxes on consumer behaviors and attitudes
   * *Methods*: community surveying; data collection; data entry
   * *Advisor*: Nadia Rojas, MPH
 
-Professional Experience
-======
+## Professional Experience
+
 * **Data Science Intern**, Cricket Health (May 2021 - Present)
   * Refined claims-based models that track chronic kidney disease progression among the undiagnosed population to improve identification of eligible patients
   * Implemented clinically-relevant predictors for use across all predictive analytics projects
@@ -59,19 +59,20 @@ Professional Experience
   * Facilitated communication between National Headquarters and Regional Volunteer Services Officers, consulted national executives on best practices regarding youth volunteer involvement and engagement
   * Promoted youth involvement in public health programs including the Measles and Rubella Initiative, disaster relief fundraising, and disaster preparedness education
 
-Skills
-======
+## Skills
+
 **Languages**: R, Python, C++, Java, Javascript, SQL, Bash
+
 **Software**: GitHub, Docker, Amazon Workspaces, Microsoft Suite
 
-Publications
-======
+## Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Teaching
-======
+## Teaching
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
