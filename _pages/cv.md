@@ -34,7 +34,7 @@ redirect_from:
 
 ## Professional Experience
 
-* **Data Science Intern**, Cricket Health (May 2021 - Present)
+* **Data Scientist**, Cricket Health (May 2021 - Present)
   * Refined claims-based models that track chronic kidney disease progression among the undiagnosed population to improve identification of eligible patients
   * Implemented clinically-relevant predictors for use across all predictive analytics projects
 
