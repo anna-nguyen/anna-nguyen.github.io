@@ -67,12 +67,22 @@ redirect_from:
 
 ## Publications
 
-  <ul>{% for post in site.publications %}
+{% for post in site.publications reversed %}
+  {% if post.venue != 'Under Review' %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endif %}
+{% endfor %}
+
+### Under Review
+
+{% for post in site.publications reversed %}
+  {% if post.venue == 'Under Review' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
 
 ## Teaching
 
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
