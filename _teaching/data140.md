@@ -7,11 +7,10 @@ venue: "UC Berkeley, Division of Computing, Data Science, and Society"
 date: 2021-01-01
 location: "Berkeley, CA"
 ---
-<b>Course Content</b>: Python Programming, Data Visualization, Conditional Probability, Hypothesis Testing, Permutation Testing, Bootstrap Sampling, Linear Regression, Classification
+<b>Course Content</b>: Probability Distributions, Expectation, Markov Chain Monte Carlo, Covariance, Multiple Linear Regression, Estimation using MAP and MLE
 
-[Course Website](http://data8.org/)
+[Course Website](http://prob140.org/)
 
-Positions:
-* Head Undergraduate Student Instructor, Content and Infrastructure (Fall 2019)
-* Head Undergraduate Student Instructor, Logistics (Summer 2019)
-* Undergraduate Student Instructor (Fall 2018, Spring 2019)
+<b>Course enrollment</b>: 350-400 students per semester
+
+In Spring 2021, I piloted a series of "catch-up" sessions to supplement course lectures and sections. Each week, I designed and delivered a lecture that summarized foundational concepts covered in the prior week's course material and walked students through problem-solving strategies.
