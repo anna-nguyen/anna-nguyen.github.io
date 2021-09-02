@@ -67,6 +67,8 @@ redirect_from:
 
 ## [Publications](https://anna-nguyen.github.io/publications/)
 
+### Published
+
 <ul>{% for post in site.publications reversed %}
   {% if post.venue != 'Under Review' %}
     {% include archive-single-cv.html %}
