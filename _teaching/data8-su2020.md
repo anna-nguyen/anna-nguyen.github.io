@@ -7,6 +7,7 @@ venue: "UC Berkeley, Division of Computing, Data Science, and Society"
 date: 2020-06-01
 location: "Berkeley, CA"
 ---
+<b>Course Content</b>: Python Programming, Data Visualization, Conditional Probability, Hypothesis Testing, Permutation Testing, Bootstrap Sampling, Linear Regression, Classification
 
 [Course Website](http://data8.org/su20/)
 
