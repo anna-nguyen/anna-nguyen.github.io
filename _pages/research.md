@@ -5,9 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research focuses on evaluating interventions that aim to prevent infectious diseases using methods in causal inference. 
-
-My published and ongoing research includes work related to 
+My research focuses on evaluating interventions that aim to prevent infectious diseases using methods in causal inference. My published and ongoing research includes work related to:
 
 1. [Child Growth Failure](#growth-failure)
 2. [Influence of Weather on Enteric Pathogens and WASH Interventions](#weather)
@@ -15,7 +13,7 @@ My published and ongoing research includes work related to
 4. [Epidemiological Methods for Infectious Diseases](#methods)
 5. [Reproducibility](#reproducibility)
 
-For a full list of my publications, please refer to my [CV](https://stanfordmedicine.box.com/s/bbtsjtsevo5ntlp7kw91r0yxp2yyjr6q)
+For a full list of my publications, please refer to my [CV](https://stanfordmedicine.box.com/s/bbtsjtsevo5ntlp7kw91r0yxp2yyjr6q).
 
 ## Child Growth Failure<a name="growth-failure"></a>
 
