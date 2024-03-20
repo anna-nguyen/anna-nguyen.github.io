@@ -17,7 +17,7 @@ I was a Head Graduate Student Instructor for **Probability for Data Science** ([
 
 Within the School of Public Health, I helped develop and teach R programming materials for **Epidemiological Methods II** (Public Health W250FG). 
 
-## Stanford<a name="stanford"></a>
+## Stanford University<a name="stanford"></a>
 
 I currently co-instruct **R Fundamentals for Health Research** (EPI/CHPR 202), an introductory course in R programming for masters- and PhD-level students with an enrollment of 45 students. The course covers topics in R syntax, tidyverse, data visualizations (ggplot), statistical testing, and regression. 
 
